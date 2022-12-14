@@ -1,0 +1,9 @@
+import:
+  - /home/sxnvte/dracula.yml
+
+
+window:
+
+  padding:
+    x: 10
+    y: 10
